@@ -1,0 +1,1 @@
+I have learned how to create a git repository and clone it to my local machine. The terminal commands for git are useful but will take some getting used to. The most exciting part for me was learning about HTML and CSS. I love seeing my creation on a published page, which I have learned how to do with Github Pages.
